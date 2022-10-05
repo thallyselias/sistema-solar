@@ -9,9 +9,9 @@
 
 /* Para celulares */
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 375px) and (max-width: 667px) {
     body, html{
-        font-size: 30px;
+        font-size: 20px;
     }
 
     nav{
