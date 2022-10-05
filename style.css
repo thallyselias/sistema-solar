@@ -29,7 +29,7 @@ header{
 nav {
     padding: 13px;
     text-align: end;
-    box-shadow: 1px 1px white;
+    border-bottom: 1px solid white;
 }
 
 nav > a{
