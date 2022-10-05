@@ -10,6 +10,11 @@
 /* Para celulares */
 
 @media screen and (min-width: 375px) and (max-width: 667px) {
+
+    main{
+        max-width: 650px;
+    }
+
     main section{
         font-size: .5em;
     }
