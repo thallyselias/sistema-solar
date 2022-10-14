@@ -67,7 +67,7 @@ section{
     box-sizing: border-box;
     display: flex;
     height: 250px;
-    padding: 10vh;    
+    padding: 10vh;
 }
 
 section > p:hover{
