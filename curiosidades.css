@@ -63,3 +63,24 @@ section{
 img{
     width: 300px;
 }
+
+/* Rodapé */
+footer{
+    background-color: gray;
+    color: white;
+}
+
+footer > p{
+    text-align: center;
+    padding: 15px;
+}
+
+footer > p > a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
+/* Rodapé */

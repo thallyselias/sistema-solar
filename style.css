@@ -19,7 +19,7 @@ body, html{
 
 
 
-/* Cabeçalho */
+/* Cabeçalho inicio */
 header{
     background-image: linear-gradient(rgb(41, 41, 70), transparent);
     font-style: oblique;
@@ -35,7 +35,7 @@ nav {
 
 nav > a{
     font-size: 15px;
-    background-color: rgba(67, 67, 68, 0.582);
+    background-color: rgba(46, 46, 46, 0.788);
     padding: 10px;
     border-radius: 15px;
     text-decoration: none;
@@ -43,9 +43,8 @@ nav > a{
 }
 
 nav > a:hover{
-    background-color: rgba(36, 36, 36, 0.815);
+    background-color: rgba(36, 36, 36, 0.623);
     transition: 0.3s;
-    font-weight: 700;
 }
 
 h1{
@@ -62,7 +61,7 @@ p{
     margin-left: 20px;
     line-height: 2em;
 }
-/* Cabeçalho */
+/******** Cabeçalho fim *********/
 
 section{
     box-sizing: border-box;
