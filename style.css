@@ -80,7 +80,7 @@ main{
     max-width: 800px;
 }
 
-
+/* Rodapé */
 footer{
     background-color: gray;
     color: white;
@@ -91,17 +91,12 @@ footer > p{
     padding: 15px;
 }
 
-footer p a {
-    font-size: 1em;
-    font-weight: 200;
-}
-
 footer > p > a{
     text-decoration: none;
     color: white;
-    font-weight: 700;
 }
 
 footer a:hover{
     text-decoration: underline;
 }
+/* Rodapé */
