@@ -81,7 +81,7 @@ main{
     max-width: 800px;
 }
 
-/* Rodapé */
+/*************** Rodapé **************/
 footer{
     background-color: gray;
     color: white;
@@ -89,7 +89,7 @@ footer{
 
 footer > p{
     text-align: center;
-    padding: 15px;
+    padding: 5px;
 }
 
 footer > p > a{
