@@ -26,10 +26,12 @@ header{
     font-variant: small-caps;
 }
 
+header nav{
+    text-align: end;
+}
 
 nav {
     padding: 13px;
-    text-align: end;
     border-bottom: 1px solid white;
 }
 

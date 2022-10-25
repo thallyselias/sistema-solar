@@ -8,29 +8,12 @@
 }
 
 /* Para celulares */
+@media (min-width: 375px) and (max-width: 500px) {
 
-@media screen and (min-width: 375px) and (max-width: 667px) {
-
-    main{
-        max-width: 650px;
-    }
-
-    main section{
-        font-size: .5em;
-    }
-
-    nav{
+    header nav{
         text-align: center;
-        font-size: 10px;
     }
 
-    footer p a {
-        font-size: 0.8em;
-        font-weight: 200;
-    }
 
-    footer > p > a{
-        font-weight: 700;
-    }
 
 }
